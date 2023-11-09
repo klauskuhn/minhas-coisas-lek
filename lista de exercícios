@@ -1,0 +1,35 @@
+1) Dominar esses conceitos é de extrema vantagem na área do direito pelo processo de digitalização, e ajudando na compreensão de questões de privacidade, segurança de dados e regulamentações tecnológicas, além de facilitar o tratamento de evidências digitais e questões legais relacionadas à tecnologia.
+
+2) a) Algoritmo na computação é o conjunto de instruções precisas usadas para resolver um problema ou realizar uma tarefa específica em um programa. Lembrando que são a base para a execução de operações computacionais.
+
+b)provedores de serviços em nuvem são basicamente armazenamento e aplicativos, A computação em nuvem é altamente flexível e eficiente, permitindo que usuários utilizem recursos sem a necessidade de investir infraestrutura física.
+
+c) Sao basicamente sistemas dedicados que fornecem serviços, armazenamento de dados e recursos de rede a outros dispositivos pela internet. Eles tem um papel importante na hospedagem de sites, aplicativos.
+
+d) Neutralidade da rede é um princípio de que os provedores de serviços de internet devem tratar todos os dados da rede de forma igual, sem preferência por tipos de tráfego. Isso traz que os dados sejam transmitidos de maneira justa e igualitária.
+
+e) Um arquivo é uma unidade de armazenamento digital que contém informações ou dados.Arquivos podem ser documentos, imagens, músicas, etc…
+
+3)Podemos organizar em internet sendo uma rede complexa e multifacetada que interliga máquinas através de cabos e permitindo a transferência de dados e a execução de programas para várias finalidades e propósitos. Então basicamente máquinas seria os computadores, servidores, roteadores que fazem parte da infraestrutura da Internet. Cabos já seria a infraestrutura física, incluindo cabos de fibra óptica, satélites e outros meios que permitem a transferência de dados entre as máquinas.
+Programas: seria os softwares que possibilitam a interação entre as máquinas na rede, como: navegadores,sistemas operacionais, etc.. e enfim dados: são as informações e arquivos que são transmitidos e compartilhados através da Internet, vídeos, documentos, mensagens e etc…
+
+4)Basicamente com intuito de realizar tarefas repetitivas, cálculos e gerar uma certa automação com eficiência e celeridade a realização dessas tarefas.
+
+5) Essas redes neurais artificiais não podem ser a única responsável por decisões médicas ou de concessão de empréstimos pela falta de interpretabilidade, e por trazer incerteza pelo seu uso. A colaboração entre IA e humanos é a mais ideal e mais utilizado como padrão. E não existe um único algoritmo de inteligência artificial que consiga ser o único em todos os casos.
+
+6) Arquivo "binário" tem dados codificados em formato não legível, enquanto um arquivo "de texto" contém dados legíveis, em forma de caracteres alfabéticos e números. O arquivo de texto pode ser lido e interpretado diretamente por nos, enquanto o arquivo binário geralmente requer um programa específico para ser interpretado.
+
+7) Um formato de arquivo proprietário é controlado por uma empresa ou entidade específica, e suas especificações não são geralmente públicas. Isso pode dificultar o acesso e a interoperabilidade dos dados públicos. Já o arquivo aberto é baseado em padrões amplamente divulgados e acessíveis, permitindo que qualquer pessoa crie, acesse e mantenha dados públicos com facilidade e independência de fornecedores. Isso promove a transparência e a acessibilidade dos dados públicos.
+
+8) Um protocolo de comunicação aberto é baseado em padrões amplamente divulgados e acessíveis, permitindo a livre implementação por qualquer pessoa. Isso promove a liberdade econômica, a competição e o desenvolvimento de novas aplicações para a internet. Já um protocolo proprietário é controlado por uma entidade específica, que pode restringir a liberdade econômica, por essa entidade impor limitações a acesso e custos, dessa forma trazendo uma dificuldade a inovação e o desenvolvimento de novas tecnologias.
+
+9) a) É basicamente um software que atua fazendo a conexão entre os programas do computador e seus componentes físicos. Ele gerencia recursos, como processadores, memória, dispositivos de armazenamento e entrada/saída, permitindo que os programas funcionem com o hardware.
+
+b) Não, existem muitos sistemas operacionais como windows,android, iOS, etc…
+c) Vender computadores com um sistema operacional pré-instalado pode ser considerado "venda casada" se o consumidor não tiver a opção de adquirir o hardware sem o software. E vem a trazer uma limitação da escolha do consumidor e a concorrência no mercado.
+
+10) a) A LGPD não se aplica diretamente a datacenters em países estrangeiros, mas ao impactar empresas brasileiras que utilizam serviços de datacenters estrangeiros. A justiça pode exigir que essas empresas garantam a proteção justamente por tratar de dados pessoais de brasileiros, independentemente de onde os dados estejam armazenados.
+
+b) 1) Os servidores de aplicação nem sempre agem de maneira adequada quanto ao conteúdo em desacordo com suas regras de comunidade. Isso pode depender das políticas e da moderação implementadas pela plataforma. Às vezes, conteúdo inadequado pode passar despercebido ou até trazer polêmicas e discussões por tais questões “ferirem as diretrizes da comunidade”.
+
+2) Em relação ao conteúdo difamatório e falso, os servidores de aplicação geralmente removem ou sinalizam o conteúdo.
